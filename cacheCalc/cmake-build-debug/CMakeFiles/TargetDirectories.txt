@@ -1,0 +1,3 @@
+/home/ioanushakov/staff/EVM/cacheCalc/cmake-build-debug/CMakeFiles/cacheCalc.dir
+/home/ioanushakov/staff/EVM/cacheCalc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ioanushakov/staff/EVM/cacheCalc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
